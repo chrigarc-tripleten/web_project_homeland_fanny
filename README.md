@@ -1,6 +1,6 @@
 # Tripleten web_project_homeland
 
-https://github.com/StephanyCbC/web_project_homeland
+https://stephanycbc.github.io/web_project_homeland/
 
 En este proyecto se hizo una pagina responsiva con los diferentes tamaños 1280px desktop, 768px y 320px, usando @media queries para obternerlo ya que esto hace que se adapte a diferentes pantallas.
 
