@@ -16,7 +16,7 @@
 
 .button:hover {
   cursor: pointer;
-  background-color: #2a2c2f;
+  background-color: #0278fe;
 }
 
 @media screen and (max-width: 1279px) {
